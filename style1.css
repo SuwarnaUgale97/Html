@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+#navbar {
+  height: 60px;
+  background-color: #0f1111;
+}
+button {
+  background-color: #8e8e26;
+}
+#logo {
+  color: #8e8e26;
+  font-size: 25px;
+}
+a {
+  margin-right: 20px;
+  text-decoration: NONE;
+}
+div{
+  border:solid white;
+}
